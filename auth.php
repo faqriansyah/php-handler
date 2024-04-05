@@ -1,6 +1,6 @@
 <?php
 
-class Aurh {
+class Auth {
     private $pdo;
 
     public function __construct($host, $dbname, $username, $password) {
